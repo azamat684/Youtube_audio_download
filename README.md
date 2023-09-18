@@ -1,2 +1,4 @@
 # Youtube_audio_download
-Ushbu shablon orqali siz youtubedagi videolarni faqat audio sini yuklab olishingiz mumkin    P.S.  to'g'irlanadigan joylari bor!
+Ushbu shablon orqali siz youtubedagi videolarni faqat audio sini yuklab olishingiz mumkin    
+
+# To'g'irlanadigan joylari ko'p!
